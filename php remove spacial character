@@ -1,0 +1,2 @@
+$title = str_replace( array( '\'', '"', ',' , ';', '<', '>' ), ' ', $value);
+
