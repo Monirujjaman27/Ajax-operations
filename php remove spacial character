@@ -1,2 +1,2 @@
-$title = str_replace( array( '\'', '"', ',' , ';', '<', '>' ), ' ', $value);
+$title = str_replace(  array( '\'', '"', ',' , ';', '<', '>', '/', '-', '_' ), ' ', $value);
 
